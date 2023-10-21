@@ -1,0 +1,7387 @@
+[
+    {
+        "year": 2022,
+        "nodes": [
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Card & Board Game"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Sport"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 25
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 21
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 6
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 6
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 11
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 6
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "Platform",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 7
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 6
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 10
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 8
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 5
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 6
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 5
+            },
+            {
+                "source": "Brawler",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 5
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 9
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 8
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 7
+            },
+            {
+                "source": "Arcade",
+                "target": "Brawler",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 4
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 3
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 9
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 3
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 3
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 4
+            },
+            {
+                "source": "Simulator",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 3
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 3
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Arcade",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 2
+            },
+            {
+                "source": "Fighting",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2019,
+        "nodes": [
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 8
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 15
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 19
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 6
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 5
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 5
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 8
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 6
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 3
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 5
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Music",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Brawler",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Simulator",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2017,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 14
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 13
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 12
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 6
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 11
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2015,
+        "nodes": [
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Sport"
+            },
+            {
+                "id": "Card & Board Game"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 14
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2011,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 7
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 10
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2020,
+        "nodes": [
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 10
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 17
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 9
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 7
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 9
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Brawler",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2021,
+        "nodes": [
+            {
+                "id": "Quiz/Trivia"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Card & Board Game"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "MOBA"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 10
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 21
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 9
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Card & Board Game",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 17
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 7
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 12
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 3
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 5
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 4
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Puzzle",
+                "target": "Quiz/Trivia",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Music",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 2
+            },
+            {
+                "source": "Music",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 2
+            },
+            {
+                "source": "Music",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2018,
+        "nodes": [
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Card & Board Game"
+            }
+        ],
+        "links": [
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 15
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 16
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 9
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 7
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 10
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 7
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 7
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Simulator",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 3
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Real Time Strategy",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2007,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 10
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 3
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 7
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Sport",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2023,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Music",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 5
+            },
+            {
+                "source": "Brawler",
+                "target": "Music",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Music",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 11
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 3
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2013,
+        "nodes": [
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 8
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 11
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 5
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 10
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 9
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 8
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 8
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Brawler",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 3
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Real Time Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Music",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2016,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Quiz/Trivia"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 20
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 6
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 7
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 7
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 6
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 8
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 10
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 7
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 7
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 7
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 3
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 3
+            },
+            {
+                "source": "Strategy",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "Simulator",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 6
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Tactical",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Quiz/Trivia",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Quiz/Trivia",
+                "value": 1
+            },
+            {
+                "source": "Quiz/Trivia",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1996,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 3
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1997,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2012,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 5
+            },
+            {
+                "source": "Indie",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "year": 2010,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 9
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 10
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 9
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Shooter",
+                "target": "Simulator",
+                "value": 3
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 2
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2009,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Card & Board Game"
+            },
+            {
+                "id": "MOBA"
+            }
+        ],
+        "links": [
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 2
+            },
+            {
+                "source": "MOBA",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "MOBA",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Puzzle",
+                "target": "Real Time Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 5
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Strategy",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2001,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Arcade",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2005,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Fighting"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Fighting",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1998,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1995,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Fighting"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1990,
+        "nodes": [
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Point-and-Click"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1994,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1985,
+        "nodes": [
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Platform"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2000,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Card & Board Game"
+            }
+        ],
+        "links": [
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2004,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 5
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 6
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 3
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 6
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Real Time Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2002,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Sport"
+            },
+            {
+                "id": "Card & Board Game"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2006,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Sport",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 3
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Sport",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2014,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Quiz/Trivia"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Card & Board Game"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 11
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 11
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 5
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 11
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 6
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 5
+            },
+            {
+                "source": "Indie",
+                "target": "Point-and-Click",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Simulator",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 5
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 3
+            },
+            {
+                "source": "Fighting",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 4
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 4
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Fighting",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Card & Board Game",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Quiz/Trivia",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Quiz/Trivia",
+                "value": 1
+            },
+            {
+                "source": "Quiz/Trivia",
+                "target": "Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1988,
+        "nodes": [
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Platform"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1993,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1991,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Brawler",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2008,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Music"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Sport"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 6
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Racing",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 4
+            },
+            {
+                "source": "Racing",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Simulator",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 7
+            },
+            {
+                "source": "Fighting",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 7
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 2
+            },
+            {
+                "source": "Brawler",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Platform",
+                "value": 3
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Indie",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 2
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Real Time Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "Simulator",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Tactical",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Indie",
+                "target": "Music",
+                "value": 1
+            },
+            {
+                "source": "Music",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Fighting",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1986,
+        "nodes": [
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Puzzle",
+                "target": "Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1989,
+        "nodes": [
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Platform"
+            }
+        ],
+        "links": [
+            {
+                "source": "Arcade",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1999,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Simulator"
+            },
+            {
+                "id": "Turn Based Strategy"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Fighting"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Card & Board Game"
+            }
+        ],
+        "links": [
+            {
+                "source": "Fighting",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Arcade",
+                "target": "Fighting",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 2
+            },
+            {
+                "source": "Puzzle",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 3
+            },
+            {
+                "source": "Adventure",
+                "target": "Turn Based Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Turn Based Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Racing",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Brawler",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Simulator",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Strategy",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 2003,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Tactical"
+            },
+            {
+                "id": "Indie"
+            },
+            {
+                "id": "Racing"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Real Time Strategy"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Puzzle"
+            },
+            {
+                "id": "Strategy"
+            },
+            {
+                "id": "Brawler"
+            },
+            {
+                "id": "Arcade"
+            },
+            {
+                "id": "Pinball"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 2
+            },
+            {
+                "source": "RPG",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "RPG",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Strategy",
+                "target": "Tactical",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 5
+            },
+            {
+                "source": "Adventure",
+                "target": "Puzzle",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Brawler",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Indie",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 3
+            },
+            {
+                "source": "Indie",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Platform",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Real Time Strategy",
+                "target": "Strategy",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Pinball",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Pinball",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1987,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1980,
+        "nodes": [
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": []
+    },
+    {
+        "year": 1992,
+        "nodes": [
+            {
+                "id": "RPG"
+            },
+            {
+                "id": "Adventure"
+            },
+            {
+                "id": "Shooter"
+            },
+            {
+                "id": "Platform"
+            },
+            {
+                "id": "Visual Novel"
+            },
+            {
+                "id": "Point-and-Click"
+            },
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": [
+            {
+                "source": "Adventure",
+                "target": "RPG",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Platform",
+                "value": 2
+            },
+            {
+                "source": "Adventure",
+                "target": "Point-and-Click",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Shooter",
+                "value": 1
+            },
+            {
+                "source": "Point-and-Click",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Shooter",
+                "target": "Visual Novel",
+                "value": 1
+            },
+            {
+                "source": "Adventure",
+                "target": "Arcade",
+                "value": 1
+            },
+            {
+                "source": "Arcade",
+                "target": "Platform",
+                "value": 1
+            }
+        ]
+    },
+    {
+        "year": 1982,
+        "nodes": [
+            {
+                "id": "Arcade"
+            }
+        ],
+        "links": []
+    }
+]

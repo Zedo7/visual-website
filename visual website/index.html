@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="An interactive data visualization of video game sales trends from 1980 to 2023, including analysis of the growth in the number of games released, genre interconnectedness, and sales trajectory in major markets.">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gasoek+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+<h1>The Trend of Game Sales between 1980-2023</h1>
+    <div id="app">
+        <div class="row">
+            <div id="chart1"></div>
+            <div class="para">
+                In the first plot, I observe a clear growth trend in the video game industry from 1980 to 2023.
+                Specifically, there is a significant increase in the number of games released each year and a noticeable
+                jump in quality. As I move toward the present, games rated between <span class="blod">3-4</span> and
+                <span class="blod">4-5</span> are becoming more common,
+                signaling a continued improvement in game quality over time. This upward trend underscores the
+                industry's
+                continued efforts to provide more compelling, high-quality content to meet the changing expectations of
+                gamers. For gamers, improved quality means a greater likelihood of finding games that offer a rich and
+                rewarding experience. For industry professionals, it underscores the importance of maintaining high
+                production values and innovative design in order to remain competitive in an increasingly discerning
+                market.
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="para">
+                In the second part of our visualization, I delve into the fascinating interconnectedness of game
+                genres, as
+                evidenced by the observed dataset. It is clear that the gaming industry has witnessed an increasing
+                complexity of game genres over the years, with a clear increase in the emergence of different genres and
+                sub-genres. Leading the way in this change are the <span class="blod">Adventure</span>, <span
+                    class="blod">Indie</span> and <span class="blod">RPG</span> genres, which demonstrate the
+                most interconnectedness or "linkage value" each year. This means that these genres, particularly <span
+                    class="blod">Adventure</span>
+                and <span class="blod">RPG</span>, often overlap, hinting at the evolving nature of gaming, where a
+                single
+                title may encapsulate
+                elements of multiple genres.
+                <br>
+                <br>
+                An intriguing observation is the intermittent appearance and disappearance of new, often separate
+                genres.
+                This may mark experimentation in the games industry as developers venture into new, possibly unknown
+                genres
+                that may resonate differently with players.
+                <br>
+                <br>
+                Similarly, a genre occasionally becoming a single unlinked node may signal a shift in game trends or a
+                fluctuation in player preferences.
+                <br>
+                <br>
+                All of these insights reflect the dynamic, evolving, and multidimensional nature of game design in the
+                industry.
+            </div>
+            <div id="chart2">
+                <div class="menu">
+                    <input type="range" id="range1" min="0" value="0" />
+                    <div id="date1">year</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div id="chart3">
+                <div class="menu">
+                    <input type="range" id="range2" min="0" value="0" />
+                    <div id="date2">year</div>
+                </div>
+            </div>
+            <div class="para">
+                The final chapter of our analysis examines the trajectory of video game sales in three major global
+                markets
+                - North America (<span class="blod">NA</span>), Europe (<span class="blod">EU</span>) and Japan (<span class="blod">JP</span>) - from 1980 to 2020. This
+                four-decade journey reveals
+                intriguing patterns and regional preferences. From the mid-1990s to the late
+                    2000s, sales rose sharply in
+                all regions, reflecting a golden age of gaming evolution marked by the rise of console games and
+                landmark
+                game titles. While sales in <span class="blod">NA</span> have dominated the market, sales in Europe have followed in a parallel
+                trend.
+                Japan's gaming market has a particular idiosyncrasy in that it has remained fairly stable over time,
+                although smaller in volume compared to <span class="blod">NA</span> and the <span class="blod">EU</span>. After 2016, all regions
+                experienced a significant
+                contraction, likely due to factors not present in the data, such as the rise of mobile
+                gaming, digital downloads or live streaming services, which are not reflected in traditional sales data
+                .
+                <br />
+                <br />
+                These observations not only provide insights into past trends in game popularity and sales, but also
+                help
+                predict future trends in this evolving industry. Regional trends underscore the importance for game
+                developers to understand local preferences and trends when developing their distribution strategies.
+            </div>
+        </div>
+
+    </div>
+    <div id="tooltip"></div>
+    <script src="script.js"></script>
+
+
+
+</body>
+
+</html>
